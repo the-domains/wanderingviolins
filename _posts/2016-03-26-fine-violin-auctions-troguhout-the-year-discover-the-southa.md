@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Fine violin auctions troguhout the year, discover the Southamerican market for fine stringed instruments, WanderingViolins is a great choice for the begginer as well the eperimented dealer, we have first class contacts aroud the world.'
-datePublished: '2016-03-26T17:58:31.373Z'
-dateModified: '2016-03-26T17:58:08.282Z'
+datePublished: '2016-03-26T17:59:33.053Z'
+dateModified: '2016-03-26T17:59:24.142Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-26-fine-violin-auctions-troguhout-the-year-discover-the-southa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-fine-violin-auctions-troguhout-the-year-discover-the-southa.md
-published: true
 url: fine-violin-auctions-troguhout-the-year-discover-the-southa/index.html
 _type: Article
 
 ---
-Fine violin auctions troguhout the year, discover the Southamerican market for fine stringed instruments, WanderingViolins is a great choice for the begginer as well the eperimented dealer, we have first class contacts aroud the world.
+Fine violin auctions troughout the year, discover the Southamerican market for fine stringed instruments, WanderingViolins is a great choice for the begginer as well the experimented dealer, we have first class contacts aroud the world.
 
 This years featured artisans include Alysio de Mattos from Brazil and the renowned english maker Howard Green.
 
