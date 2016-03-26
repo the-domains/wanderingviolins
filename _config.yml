@@ -1,7 +1,7 @@
 name: wanderingviolins
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
+layout_spectrum: 0.24775
+typography_spectrum: 0.74968
 title: WanderingViolins
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#787d8c'
-    - '#612366'
-    - '#bcb8c8'
-    - '#e997e0'
-    - '#e0e0eb'
+    - '#000000'
+    - '#9d3512'
+    - '#4c4c4c'
+    - '#e9872d'
+    - '#8e8a92'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
