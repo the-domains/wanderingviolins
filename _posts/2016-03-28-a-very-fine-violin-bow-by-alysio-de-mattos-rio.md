@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'A very Fine Violin Bow BY Alysio de Mattos, rio'
-datePublished: '2016-03-28T14:03:21.864Z'
-dateModified: '2016-03-28T13:59:36.395Z'
+datePublished: '2016-03-28T15:10:12.483Z'
+dateModified: '2016-03-28T15:09:35.303Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-28-a-very-fine-violin-bow-by-alysio-de-mattos-rio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-a-very-fine-violin-bow-by-alysio-de-mattos-rio.md
-published: true
 url: a-very-fine-violin-bow-by-alysio-de-mattos-rio/index.html
-_type: Article
+_type: WebPage
 
 ---
 A very Fine Violin Bow BY Alysio de Mattos, rio
